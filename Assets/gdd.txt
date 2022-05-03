@@ -1,0 +1,17 @@
+
+	Here outlining all the coding parts
+
+Controls:
+-wasd motion, pathfinding, click to move towards cursor naively?	
+-click to cast spell in cursor direction
+
+Physics:
+-Knockback for player and enemies 
+-Upward knockback for monsters?
+
+Spells:
+-Spell AoE indicators with cast on release?
+-Casting a spell rotates to next spell, to guarantee that all varieties will be seen 
+
+Enemies:
+-Enemies randomly spawn for target practice, mostly passive AI
